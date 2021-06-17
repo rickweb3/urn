@@ -12,7 +12,7 @@
 
 
 <h4 align="center"> 
-	🚧 Awax - Concluído 🚀 🚧
+	🚧 Urna Eletrônica - Em construção... 🚀 🚧
 </h4>
 
 <p align="center">
