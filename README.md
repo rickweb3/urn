@@ -12,7 +12,7 @@
 
 
 <h4 align="center"> 
-	🚧 Urna Eletrônica - Em construção... 🚀 🚧
+	🚧 Urna - Em construção... 🚀 🚧
 </h4>
 
 <p align="center">
