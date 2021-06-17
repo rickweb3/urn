@@ -56,7 +56,7 @@ O site é **responsivo** e possue as seguintes seções:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([HTML5](https://html.spec.whatwg.org/)  +  [CSS3](https://www.w3.org/Style/CSS/Overview.en.html))
+#### **Website**  ([HTML5](https://html.spec.whatwg.org/)  +  [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)) + [JS](https://www.w3.org/Style/CSS/Overview.en.html))
 
 ---
 
